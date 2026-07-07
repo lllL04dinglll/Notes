@@ -35,4 +35,3 @@ Bu depo, CCNA müfredatını ve Siber Güvenlik stratejilerini kapsayan kapsaml�
 * Erişim Kontrol Listeleri (Standart, Extended ve Named ACL)
 
 ---
-, ağ mühendisliği ve siber güvenlik yolculuğumdaki teknik birikimleri belgelemektedir.*
